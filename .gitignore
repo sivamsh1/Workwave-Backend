@@ -1,5 +1,5 @@
 #Ignoring node modules 
-node_modeules/
+node_modules/
 
 #Ignoring .env
 .env 
